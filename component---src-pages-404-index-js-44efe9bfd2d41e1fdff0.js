@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"4Daz":function(n,e,t){"use strict";t.r(e);var l=t("q1tI"),a=t.n(l),o=t("0Vdl"),u=t("jNNy");e.default=function(){return a.a.createElement(o.a,null,a.a.createElement(u.a,{title:"Pill not found"}),a.a.createElement("div",null,"Pill not found"))}}}]);
+//# sourceMappingURL=component---src-pages-404-index-js-44efe9bfd2d41e1fdff0.js.map
